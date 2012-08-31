@@ -1,0 +1,7 @@
+LDAP username: 
+LDAP password: 
+Google username: 
+Google password: 
+Use proxy? Enter 1 for yes or 0 for no: 
+
+# Please check the credentials that you have entered on top because this file will be deleted at the very first run of the code and converted to an encrypted file to keep your credentials safe. Create a copy of this file in some other folder if you need to remember the format. Please dont leave any newlines in the first five lines
